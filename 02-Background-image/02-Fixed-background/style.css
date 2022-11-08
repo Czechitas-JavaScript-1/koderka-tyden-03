@@ -18,11 +18,12 @@ body {
 
 
 .box {
-	background-image: url(images/vysoke.jpg);
+	background-image: url(images/charlie.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 }
 
 .boxik {
 	height: 150px;
+	background-image: url(images/vysoke.jpg);
 }
