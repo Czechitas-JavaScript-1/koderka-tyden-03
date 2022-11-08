@@ -17,4 +17,12 @@ body {
 /* ------------------------------------ */
 
 
+.box {
+	background-image: url(images/vysoke.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
 
+.boxik {
+	height: 150px;
+}
